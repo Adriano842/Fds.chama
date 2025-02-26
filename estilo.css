@@ -11,7 +11,20 @@ painel-sobre{
 	background-color: ##d50000;
 
 	padding: 50px;
+  </style>
+</head>
+<body>
 
+    <h2>Imagem com largura fixa e altura automática</h2>
+    <img src="https://via.placeholder.com/500" class="imagem">
+
+    <h2>Imagem dentro de um contêiner fixo</h2>
+    <div class="container">
+        <img src="https://via.placeholder.com/500">
+    </div>
+
+</body>
+</html>
 	
 
 }
